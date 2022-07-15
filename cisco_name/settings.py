@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'api',
     'rest_framework.authtoken',
-    'django_apscheduler',
+    #'django_apscheduler',
 
 ]
 APSCHEDULER_DATETIME_FORMAT = "N j, Y, f:s a"  # Default
